@@ -59,7 +59,7 @@ export default function Navbar() {
             </div>
             <div>
               <div className="font-display font-bold text-xl leading-none"
-                   style={{ color: "var(--color-ink)" }}>Dragon</div>
+                   style={{ color: "var(--color-ink)" }}>Coders24</div>
               <div className="font-mono text-xs tracking-[0.2em] uppercase"
                    style={{ color: "var(--color-primary)" }}>Market</div>
             </div>
